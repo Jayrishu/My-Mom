@@ -1,0 +1,33 @@
+html{
+    text-align: center;
+}
+#p{
+    background-color: aqua;
+}
+#p h1{
+    color: deeppink;
+    text-shadow: indigo;
+}
+#p h2{
+    color:lawngreen;
+}
+#p img{
+    height: 400px;
+    width: 360px;
+    border: lightcoral;
+    border-style: solid;
+    border-width: 4px;
+}
+#a{
+    background-color: slateblue;
+    text-align: center;
+}
+#a h1{
+    color: rgb(173, 24, 24);
+    text-shadow: indigo;
+}
+#a p{
+    color: lawngreen;
+    margin-left: 250px auto;
+    margin-right: 250px auto; 
+}
